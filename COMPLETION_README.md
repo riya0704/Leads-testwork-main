@@ -28,8 +28,6 @@ This repository contains a completed Lead Capture frontend and backend built fro
 
 By default the frontend expects the backend API at `http://localhost:4000/api/v1/lead`.
 
-## Notes
-- The backend expects a MongoDB connection. If you don't have one, you can use MongoDB Atlas and set the connection string in `.env`.
-- This package intentionally keeps changes minimal to the original starter code; see commit history (if using Git) for details.
 
-Good luck with the evaluation!
+
+
